@@ -1,0 +1,1 @@
+Charger un fichier contenant des données selon le format spécifié (une suite de triplets de chiffres séparés par des espaces). Vous pouvez choisir l'approche que vous préférez. Le fichier peut être récupéré en ligne, par l'ouverture d'un fichier sur votre disque ou par l'entrée standard (stdin). Votre code doit gérer les erreurs de lecture.
